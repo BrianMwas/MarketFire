@@ -1,0 +1,7 @@
+{
+  "name": "marketFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
